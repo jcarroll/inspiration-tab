@@ -26,9 +26,8 @@ Inspired by Mo'Tab (RIP)
 
 ## License
 
-This project is licensed under the GPL3 License
+This project is licensed under the CC-BY-SA 4.0 License
 
 ## Inspiration, guides:
-* 
 * [DomPizzie/README-Template.md](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
 * [Mo'Tab](https://chromewebstore.google.com/detail/Mo%27%20Tab/ldpgnpfoinmjfppgbjmbgdfebjmcjpgf)
