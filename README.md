@@ -14,7 +14,8 @@ Inspired by Mo'Tab (RIP)
 1. Load unpacked extension
 
 ## Version History
-
+* 1.3.1
+    * Added link to github, initial _release_
 * 1.3.0
     * Removed fade, added more quotes and images
 * 1.2.0
