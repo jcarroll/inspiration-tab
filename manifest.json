@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Conference & Scripture Tab",
+  "name": "Inspiration Tab",
   "version": "1.3.0",
   "description": "Replaces the new tab page with beautiful images, inspirational quotes from General Conference, and Book of Mormon scriptures.",
   "chrome_url_overrides": {
