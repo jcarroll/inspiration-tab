@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Conference & Scripture Tab",
+  "version": "1.2.0",
+  "description": "Replaces the new tab page with beautiful images, inspirational quotes from General Conference, and Book of Mormon scriptures.",
+  "chrome_url_overrides": {
+    "newtab": "popup.html"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
