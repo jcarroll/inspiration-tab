@@ -14,6 +14,9 @@ Inspired by Mo'Tab (RIP)
 1. Load unpacked extension
 
 ## Version History
+* 1.4.0
+    * Added images as local files
+    * Pulled images from [Mo'Tab Repository](https://github.com/bradydowling/Mo-Tab)
 * 1.3.1
     * Added link to github, initial _release_
 * 1.3.0
