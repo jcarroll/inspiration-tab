@@ -14,6 +14,10 @@ Inspired by Mo'Tab (RIP)
 1. Load unpacked extension
 
 ## Version History
+* 1.4.2
+    * Bumped version
+* 1.4.1
+    * Added quotes from Oct 2025 and April 2026 conferences
 * 1.4.0
     * Added images as local files
     * Pulled images from [Mo'Tab Repository](https://github.com/bradydowling/Mo-Tab)
