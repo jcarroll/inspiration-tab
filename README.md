@@ -14,6 +14,13 @@ Inspired by Mo'Tab (RIP)
 1. Load unpacked extension
 
 ## Version History
+* 2026.10.1
+    * Corrected version in manifest and readme
+* 2026.10
+    * Added Oct 2026 Conference message "kickers"
+    * Added code to fetch kickers
+    * Thanks to https://embedenv.com/online-compiler/beautifulsoup
+    * Thanks to Gemini code generating agent
 * 1.4.2
     * Bumped version
 * 1.4.1
