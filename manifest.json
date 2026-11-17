@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Inspiration Tab",
-  "version": "1.4.2",
-  "description": "Replaces the new tab page with beautiful images, inspirational quotes from General Conference, and Book of Mormon scriptures. https://github.com/jcarroll/inspiration-tab",
+  "version": "2026.10.1",
+  "description": "Replaces the new tab page with beautiful images, inspirational quotes from 2025 and 2026 General Conferences of The Church of Jesus Christ of Latter-day Saints and Book of Mormon scriptures. https://github.com/jcarroll/inspiration-tab",
   "chrome_url_overrides": {
     "newtab": "popup.html"
   },
