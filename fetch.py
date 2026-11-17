@@ -13,7 +13,7 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://churchofjesuschrist.org"
+BASE_URL = "https://www.churchofjesuschrist.org"
 INDEX_URL = f"{BASE_URL}/study/general-conference/2026/10?lang=eng"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
@@ -67,7 +67,7 @@ def main():
     for a_tag in index_soup.find_all("a", href=True):
         href = a_tag["href"]
         if "/study/general-conference/2026/10/" in href:
-            full_url = urljoin(BASE_URL, href).split("?") + "?lang=eng"
+            full_url = urljoin(BASE_URL, href).split("?")[0] + "?lang=eng"
             if full_url not in talk_urls and not full_url.endswith("-session?lang=eng"):
                 talk_urls.append(full_url)
 
